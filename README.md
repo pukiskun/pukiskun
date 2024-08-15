@@ -24,6 +24,7 @@ The projects you’ll find in this repository have been meticulously developed f
 
 ## 🔭 Currently Working On
 
+- **Web Scraper Gui** (Desktop) | [![Web Scraper GUI](https://img.shields.io/badge/Web%20Scraper%20GUI-brightgreen?style=flat&logo=github&logoColor=white)](https://github.com/pukiskun/web-scraper-gui)- Scraping tool for collecting text based Machine learning dataset.
 - **Plant Disease Detector** (Machine Learning) - Developing a system to accurately detect plant diseases using machine learning algorithms.
 - **Indonesian Sign Language Recognizer** (Machine Learning) - Building a model to recognize and interpret Indonesian sign language through machine learning techniques.
 
