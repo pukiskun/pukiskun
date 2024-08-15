@@ -1,6 +1,5 @@
-# Ramaditya Bhaskara Mawanta
-
-## **Digital Craftman**
+# 🌞 Ramaditya Bhaskara Mawanta
+**'Digital Craftman'**
 
 I am a graduate with a Bachelor's degree in Information Systems from Telkom University Surabaya, where I studied from 2020 to 2024. My academic journey has fueled a deep passion for machine learning, artificial intelligence, and software development. Throughout my time at university, I have consistently sought to deepen my understanding of these fields, working on projects that merge theory with practical application.
 
